@@ -10,3 +10,6 @@ Wow markdown is AmAZinG
 1. one 
 2. two 
 3. three
+
+
+! [THis picutre is great(wow.JPG)]
