@@ -12,4 +12,4 @@ Wow markdown is AmAZinG
 3. three
 
 
-! [THis picutre is great(wow.JPG)]
+! [THis picutre is great](wow.JPG)
